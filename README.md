@@ -7,6 +7,3 @@ I am passionate about web development and enjoy crafting user-friendly, responsi
 ### Current Focus
 I'm currently learning React.js to enhance my skills as a front-end developer and build dynamic, high-performance web applications.
 
-### Fun Fact
-I’m full of curiosity and always ready to dive into new challenges.
-
